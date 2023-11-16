@@ -7,9 +7,6 @@ C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\Bu
 C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\BuberDinner.Api.pdb
 C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
-C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Api\obj\Debug\net7.0\BuberDinner.Api.csproj.AssemblyReference.cache
 C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Api\obj\Debug\net7.0\BuberDinner.Api.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Api\obj\Debug\net7.0\BuberDinner.Api.AssemblyInfoInputs.cache
@@ -39,3 +36,4 @@ C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\Bu
 C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\BuberDinner.Application.pdb
 C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\BuberDinner.Infrastructure.pdb
 C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\BuberDinner.Domain.pdb
+C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll

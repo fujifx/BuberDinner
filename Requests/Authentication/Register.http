@@ -1,0 +1,23 @@
+@host = http://localhost:5119
+
+POST {{host}}/auth/register
+Content-Type: application/json
+
+{
+  "firstName": "Fuzuli",
+  "lastName": "Hameed",
+  "email": "fhameed@dotnetcorecompany.com",
+  "password": "fhameed4321!"
+}
+
+
+### If multiple request requires to be send you seperate them with ###
+# OST {{host}}/auth/register
+# Content-Type: application/json
+
+# {
+#   "firstName": "Hamza",
+#   "lastName": "Hameed",
+#   "email": "hhameed@dotnetcorecompany.com",
+#   "password": "hhameed4321!"
+# }

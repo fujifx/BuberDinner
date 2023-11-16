@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qsm2dsoQHlUCmOmWXnJevBFXZ2ew2tAgY0qWvAgn+EK8npBL+IlLuFHgYCOk5nYA78Cg/jjC01bjPpHJRc8lJQ==",
+  "dgSpecHash": "Ot0xF0XJEI0/3v6eR0Kw8DjATYMwOFn6c8KX6aZkwbmcSnzqLqGDgy/x1bMuF7QlcQbCvOP5pkPamb0jf7JgGg==",
   "success": true,
   "projectFilePath": "C:\\Users\\fuzul\\Downloads\\Development\\asp-net6-rest-api-clean_architecture_DDD\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\fuzul\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
