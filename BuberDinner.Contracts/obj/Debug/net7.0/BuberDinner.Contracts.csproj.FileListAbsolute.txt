@@ -1,0 +1,11 @@
+C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.deps.json
+C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.dll
+C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.pdb
+C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.AssemblyInfo.cs
+C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.dll
+C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\refint\BuberDinner.Contracts.dll
+C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.pdb
+C:\Users\fuzul\Downloads\Development\asp-net6-rest-api-clean_architecture_DDD\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\ref\BuberDinner.Contracts.dll
